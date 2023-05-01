@@ -1,0 +1,20 @@
+HIGH LEVEL ORGANIZATION
+
+Features
+Live chat
+Tabs of content in a SPA
+
+Data Structures
+    - Arrays vs Linked Lists
+    - Stacks and Queues
+    - Trees
+    - Hash Tables
+    - Binary Heap
+
+Algorithms
+    - Djikstra's
+    - Merge Sort
+    - Quick Sort
+    - Binary Search
+    - Depth First / Breadth First Search
+    - Minumum Spanning Tree
